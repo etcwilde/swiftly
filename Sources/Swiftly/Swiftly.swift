@@ -30,6 +30,7 @@ public struct Swiftly: SwiftlyCommand {
             Update.self,
             Init.self,
             SelfUpdate.self,
+            License.self,
         ]
     )
 
